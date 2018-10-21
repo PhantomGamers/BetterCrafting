@@ -1,7 +1,7 @@
 ﻿{
    "Name": "BetterCrafting",
    "Author": "RedstoneBoy",
-   "Version": "1.2.1-unofficial.1-phantomgamers",
+   "Version": "1.2.1-unofficial.2-phantomgamers",
    "Description": "Better crafting gui.",
    "UniqueID": "RedstoneBoy.BetterCrafting",
    "EntryDll": "BetterCrafting.dll",

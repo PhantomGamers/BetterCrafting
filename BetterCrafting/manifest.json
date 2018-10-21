@@ -6,5 +6,5 @@
    "UniqueID": "RedstoneBoy.BetterCrafting",
    "EntryDll": "BetterCrafting.dll",
    "MinimumApiVersion": "2.6",
-   "UpdateKeys": [ "Nexus:2504", "GitHub:RedstoneBoy/BetterCrafting" ]
+   "UpdateKeys": [ "Nexus:2504", "GitHub:RedstoneBoy/BetterCrafting", "Github:PhantomGamers/BetterCrafting" ]
 }
